@@ -1,4 +1,6 @@
 # Python svg samples collection designer (IN DEVELOPMENT)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgiacomomarchioro%2Fpysvgsamplescollection.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgiacomomarchioro%2Fpysvgsamplescollection?ref=badge_shield)
+
 
 This Python script allows you to create a modified `.svg` rappresenting a flat samples collection. A flat samples collection is a group of flat samples (e.g. some pieces of metals with different varnishes, a series of coloured tile ...). The samples are contained in a samples holder that can be used as reference system.
 
@@ -22,3 +24,7 @@ The `.svg`can be read with any browser. The mouse over tooltip can show to anybo
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgiacomomarchioro%2Fpysvgsamplescollection.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgiacomomarchioro%2Fpysvgsamplescollection?ref=badge_large)
